@@ -37,6 +37,10 @@
                             <constraint firstItem="LEJ-XM-6d9" firstAttribute="bottom" secondItem="wfy-db-euE" secondAttribute="top" constant="-20" id="aSQ-Gu-O0M"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="bonJoviImage" destination="2mK-Ph-zer" id="PzP-g2-Paa"/>
+                        <outlet property="expandButton" destination="LEJ-XM-6d9" id="2RX-VW-VQZ"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
